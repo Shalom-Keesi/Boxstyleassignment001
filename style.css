@@ -1,0 +1,10 @@
+.contained{
+    padding: 20px;
+    margin: 5%;
+    border: solid 2px purple;
+
+}
+#contains{
+    border: dotted 1px red;
+
+}
